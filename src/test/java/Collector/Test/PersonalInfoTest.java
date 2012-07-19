@@ -1,8 +1,9 @@
 package Collector.Test;
 
 import Collector.PersonalInfo;
-import junit.framework.TestCase;
+import org.junit.Assert;
 import org.junit.Before;
+import org.junit.Test;
 
 /**
  * Created with IntelliJ IDEA.
@@ -11,28 +12,31 @@ import org.junit.Before;
  * Time: 8:00 PM
  * To change this template use File | Settings | File Templates.
  */
-public class PersonalInfoTest extends TestCase {
+public class PersonalInfoTest {
 
     PersonalInfo info;
 
-    @Override
+    @Before
     public void setUp() throws Exception {
         info = new PersonalInfo();
     }
 
+    @Test
     public void testSetHobby() throws Exception {
         info.setHobby("eat");
-        assertEquals("eat",info.getHobby());
+        Assert.assertEquals("eat", info.getHobby());
     }
 
+    @Test
     public void testSetId() throws Exception {
         info.setId(123);
-        Integer expectedValue=123;
-        assertEquals(expectedValue,info.getId());
+        Integer expectedValue = 123;
+        Assert.assertEquals(expectedValue, info.getId());
     }
 
+    @Test
     public void testSetName() throws Exception {
         info.setName("cui");
-        assertEquals("cui",info.getName());
+        Assert.assertEquals("cui", info.getName());
     }
 }
