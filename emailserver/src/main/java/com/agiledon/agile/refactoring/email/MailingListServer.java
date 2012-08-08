@@ -34,7 +34,7 @@ public class MailingListServer {
                     Properties properties = System.getProperties();
                     Session session = Session.getDefaultInstance(properties, null);
                     Store store = session.getStore("pop3");
-                    store.connect(host.pop3Host, -1, host.pop3User, host.pop3Password);
+                    store.connect(host.getPop3Host(), -1, host.getPop3User(), host.getPop3Password());
                     Folder defaultFolder = store.getDefaultFolder();
                     if (defaultFolder == null) {
                         return;
@@ -122,11 +122,11 @@ public class MailingListServer {
             }
 
             Properties props = new Properties();
-            props.put("mail.smtp.host", host.smtpHost);
+            props.put("mail.smtp.host", host.getSmtpHost());
 
             Session smtpSession = Session.getDefaultInstance(props, null);
             Transport transport = smtpSession.getTransport("smtp");
-            transport.connect(host.smtpHost, host.smtpUser, host.smtpPassword);
+            transport.connect(host.getSmtpHost(), host.getSmtpUser(), host.getSmtpPassword());
             transport.sendMessage(forward, roster.getAddresses());
             message.setFlag(Flags.Flag.DELETED, true);
         }

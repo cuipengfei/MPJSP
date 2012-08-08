@@ -1,5 +1,7 @@
 package com.agiledon.agile.refactoring.email;
 
+import javax.mail.Address;
+
 /**
  * Created by IntelliJ IDEA.
  * User: twer
@@ -9,5 +11,13 @@ package com.agiledon.agile.refactoring.email;
  */
 public class FileRoster implements Roster {
     public FileRoster(String fileName) {
+    }
+
+    public boolean constainsOneOf(Address[] from) {
+        return false;  //To change body of implemented methods use File | Settings | File Templates.
+    }
+
+    public Address[] getAddresses() {
+        return new Address[0];  //To change body of implemented methods use File | Settings | File Templates.
     }
 }
