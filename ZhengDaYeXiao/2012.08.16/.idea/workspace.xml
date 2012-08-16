@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bdd799b-8d87-4b50-8888-5a76efc70f57" name="Default" comment="" />
-    <ignored path="emailserver.iws" />
+    <list default="true" readonly="true" id="f2d56e3d-c28e-4fba-98b4-689162bd2156" name="Default" comment="" />
+    <ignored path="examination.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,10 +54,49 @@
     <ui_properties />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="emailserver" />
+    <favorites_list name="examination" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="8" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MarsRoverTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MarsRoverTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="31" selection-start="1911" selection-end="1917" vertical-scroll-proportion="2.3611112">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MarsRover.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MarsRover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="15" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Orient.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Orient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="20" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -68,36 +107,24 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agiledon/agile/refactoring/email/FOLDER.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agiledon/agile/refactoring/email/MessageingException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agiledon/agile/refactoring/email/Roster.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agiledon/agile/refactoring/email/HostInformation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agiledon/agile/refactoring/email/FileRoster.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/agiledon/agile/refactoring/email/FileRosterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agiledon/agile/refactoring/email/MailingListServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agiledon/agile/refactoring/email/Forwarder.java" />
-        <option value="$PROJECT_DIR$/src/main/js/FizzBuzz.js" />
-        <option value="$PROJECT_DIR$/src/main/js/FizzBuzz.html" />
-        <option value="$PROJECT_DIR$/src/main/js/test.html" />
-        <option value="$USER_HOME$/Downloads/jasmine-standalone-1.2.0/SpecRunner.html" />
+        <option value="$PROJECT_DIR$/src/test/java/MarsRoverTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Orient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MarsRover.java" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
         <option name="keepSourceFolders" value="false" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ModuleEditorState">
-    <option name="LAST_EDITED_MODULE_NAME" />
-    <option name="LAST_EDITED_TAB_NAME" />
-  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="767" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -129,27 +156,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="emailserver" />
+              <option name="myItemId" value="examination" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="emailserver" />
+              <option name="myItemId" value="examination" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="emailserver" />
+              <option name="myItemId" value="2012.08.16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="emailserver" />
+              <option name="myItemId" value="examination" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="emailserver" />
+              <option name="myItemId" value="2012.08.16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -164,18 +191,14 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="email" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="emailserver" />
+              <option name="myItemId" value="examination" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="emailserver" />
+              <option name="myItemId" value="2012.08.16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -186,149 +209,62 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="emailserver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemId" value="examination" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="emailserver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="examination" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="email" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Favorites" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.agiledon.agile.refactoring.email" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.agiledon.agile.refactoring.email" />
+      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FileRosterTest">
-    <configuration default="false" name="Forwarder" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.agiledon.agile.refactoring.email.Forwarder" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+  <component name="RunManager" selected="JUnit.MarsRoverTest">
+    <configuration default="false" name="MarsRoverTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="examination" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="emailserver" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="FileRosterTest.testConstainsOneOf" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="emailserver" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.agiledon.agile.refactoring.email" />
-      <option name="MAIN_CLASS_NAME" value="com.agiledon.agile.refactoring.email.FileRosterTest" />
-      <option name="METHOD_NAME" value="testConstainsOneOf" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="FileRosterTest.testGetAddresses" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="emailserver" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.agiledon.agile.refactoring.email" />
-      <option name="MAIN_CLASS_NAME" value="com.agiledon.agile.refactoring.email.FileRosterTest" />
-      <option name="METHOD_NAME" value="testGetAddresses" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="FileRosterTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="emailserver" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.agiledon.agile.refactoring.email" />
-      <option name="MAIN_CLASS_NAME" value="com.agiledon.agile.refactoring.email.FileRosterTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MarsRoverTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
+      <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
@@ -341,6 +277,39 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
+    </configuration>
+    <configuration default="false" name="MarsRoverTest.should_orient_north_when_rover_orient_east_and_turn_left" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="examination" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MarsRoverTest" />
+      <option name="METHOD_NAME" value="should_orient_north_when_rover_orient_east_and_turn_left" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -351,6 +320,38 @@
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
@@ -399,7 +400,7 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
+      <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
@@ -416,11 +417,9 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Application.Forwarder" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.FileRosterTest.testConstainsOneOf" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.FileRosterTest.testGetAddresses" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FileRosterTest" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MarsRoverTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MarsRoverTest.should_orient_north_when_rover_orient_east_and_turn_left" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -428,7 +427,7 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="mySSHConnectionTimeout" value="30000" />
@@ -444,19 +443,21 @@
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
     <option name="FORCE_UPDATE" value="false" />
     <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1bdd799b-8d87-4b50-8888-5a76efc70f57" name="Default" comment="" />
-      <created>1329627211899</created>
-      <updated>1329627211899</updated>
+      <changelist id="f2d56e3d-c28e-4fba-98b4-689162bd2156" name="Default" comment="" />
+      <created>1345111828416</created>
+      <updated>1345111828416</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="767" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1440" height="777" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -466,17 +467,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6702786" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24928162" sideWeight="0.6395939" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3003049" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -519,7 +519,7 @@
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
-    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
@@ -540,86 +540,121 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/Object.class">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="19" selection-start="384" selection-end="384" vertical-scroll-proportion="0.25862068" />
+        <state line="10" column="8" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/Assert.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/MarsRover.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="147" selection-end="147" vertical-scroll-proportion="-0.20380434" />
+        <state line="10" column="15" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/Test.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Orient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="18" selection-start="302" selection-end="302" vertical-scroll-proportion="0.23622048" />
+        <state line="22" column="20" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/agiledon/agile/refactoring/email/FileRosterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/MarsRoverTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="33" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" />
+        <state line="60" column="31" selection-start="1911" selection-end="1917" vertical-scroll-proportion="2.3611112">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agiledon/agile/refactoring/email/FOLDER.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="12" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/FetchProfile.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="16" selection-start="401" selection-end="401" vertical-scroll-proportion="0.3030303" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar!/javax/mail/Folder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="16" selection-start="3940" selection-end="3940" vertical-scroll-proportion="0.34767643" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agiledon/agile/refactoring/email/Forwarder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="43" selection-start="1873" selection-end="1873" vertical-scroll-proportion="-0.9450727" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agiledon/agile/refactoring/email/Roster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="31" selection-start="282" selection-end="282" vertical-scroll-proportion="0.2907916" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/js/FizzBuzz.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="7" selection-start="0" selection-end="226" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/js/FizzBuzz.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="69" selection-start="496" selection-end="496" vertical-scroll-proportion="-11.25" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/js/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="16" selection-start="199" selection-end="199" vertical-scroll-proportion="-4.375" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/jasmine-standalone-1.2.0/src/Song.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/jasmine-standalone-1.2.0/src/Player.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="36" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/jasmine-standalone-1.2.0/SpecRunner.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="41" selection-start="668" selection-end="703" vertical-scroll-proportion="-9.375" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/jasmine-standalone-1.2.0/spec/PlayerSpec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>examination</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 
