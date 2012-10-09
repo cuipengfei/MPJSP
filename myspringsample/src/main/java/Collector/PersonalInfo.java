@@ -13,7 +13,11 @@ import javax.persistence.*;
 @Table(name = "PersonalInfoTable")
 public class PersonalInfo implements Serializable {
 
-    private String name;
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = 3555358701038269477L;
+	private String name;
     private String hobby;
     private Integer id;
 

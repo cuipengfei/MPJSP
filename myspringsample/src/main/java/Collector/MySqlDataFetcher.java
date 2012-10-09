@@ -4,10 +4,6 @@ import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.orm.hibernate3.support.HibernateDaoSupport;
 
-import java.sql.*;
-
-import static java.lang.Class.*;
-
 /**
  * Created with IntelliJ IDEA.
  * User: twer
