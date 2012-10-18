@@ -1,6 +1,6 @@
 package BetaMax.BetaMaxSample.TestNG;
 
-import BetaMax.BetaMaxSample.extension.NGRecorder;
+import BetaMax.BetaMaxSample.extension.NGRecorderJ;
 import BetaMax.BetaMaxSample.extension.NGRule;
 import BetaMax.BetaMaxSample.extension.RulesListener;
 import co.freeside.betamax.Betamax;
@@ -20,11 +20,11 @@ import static org.testng.AssertJUnit.assertEquals;
 @Listeners(RulesListener.class)
 public class VCRNGTest {
     @NGRule
-    public final IHookable recorder = new NGRecorder();
+    public final IHookable recorder = new NGRecorderJ();
 
     @Test
     @Betamax(tape = "defaultTape1")
-    public void checkItWorked() {
+    public void shouldReturnHtmlContent() {
         URL url;
         InputStream stream = null;
         DataInputStream dataInputStream;

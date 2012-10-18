@@ -1,9 +1,11 @@
 package BetaMax.BetaMaxSample.JUnit;
 
-import java.io.*;
+import java.io.BufferedInputStream;
+import java.io.DataInputStream;
+import java.io.IOException;
+import java.io.InputStream;
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.util.Properties;
 
 import org.junit.Rule;
 import org.junit.Test;
@@ -18,7 +20,7 @@ public class VCRJUnitTest {
     @SuppressWarnings("deprecation")
 	@Betamax(tape = "defaultTape1")
 	@Test
-	public void shouldReturnResultWhenWIFIIsTurnedOff() throws IOException {
+	public void shouldReturnHtmlContent() throws IOException {
 		URL url;
 		InputStream stream = null;
 		DataInputStream dataInputStream;
