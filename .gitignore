@@ -11,14 +11,10 @@ BetaMaxSample/.settings/org.eclipse.m2e.core.prefs
 
 .DS_Store
 
-BetaMaxSample/target/test-classes/BetaMax/tapes/my_test_vcr_tape.yaml
+BetaMaxSample/target/
 
-BetaMaxSample/target/test-classes/BetaMax/BetaMaxSample/VCRTest.class
+BetaMaxSample/BetaMaxSample.iml
 
-BetaMaxSample/target/classes/META-INF/maven/BetaMax/BetaMaxSample/pom.xml
+BetaMaxSample/BetaMaxSample.ipr
 
-BetaMaxSample/target/classes/META-INF/maven/BetaMax/BetaMaxSample/pom.properties
-
-BetaMaxSample/target/classes/BetaMax/BetaMaxSample/GetPageContent.class
-
-BetaMaxSample/target/classes/META-INF/MANIFEST.MF
+BetaMaxSample/BetaMaxSample.iws

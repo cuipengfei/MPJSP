@@ -1,0 +1,32 @@
+!tape
+name: defaultTape1
+interactions:
+- recorded: 2012-10-18T02:27:42.132Z
+  request:
+    method: GET
+    uri: http://geoxtorydev.herokuapp.com/trips/1
+    headers:
+      Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+      Host: geoxtorydev.herokuapp.com
+      Proxy-Connection: keep-alive
+      User-Agent: Java/1.7.0_07
+  response:
+    status: 200
+    headers:
+      Cache-Control: max-age=0, private, must-revalidate
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 18 Oct 2012 02:27:41 GMT
+      Etag: '"0331bbadde700b3b9c8f01f451b17839"'
+      Server: WEBrick/1.3.1 (Ruby/1.9.2/2011-07-09)
+      X-Runtime: '0.006469'
+      X-Ua-Compatible: IE=Edge,chrome=1
+    body: "<!DOCTYPE html>\n<html>\n<head>\n<meta name=\"viewport\" content=\"initial-scale=1.0, user-scalable=no\" />\n<link rel=\"shortcut icon\" href=\"/images/favicon.ico\" type=\"image/x-icon\">\n<title>GeoXtory | item123</title>\n<link href=\"/stylesheets/application.css?1350375691\"\
+      \ media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<script src=\"/javascripts/jquery.min.js?1350375691\" type=\"text/javascript\"></script>\n<script src=\"/javascripts/jquery_ujs.js?1350375691\" type=\"text/javascript\"></script>\n<script src=\"\
+      /javascripts/application.js?1350375691\" type=\"text/javascript\"></script>\n<script src=\"/javascripts/jquery.galleriffic.js?1350375691\" type=\"text/javascript\"></script>\n<script src=\"/javascripts/jquery.opacityrollover.js?1350375691\" type=\"text/javascript\"\
+      ></script>\n<script src=\"/javascripts/csv.js?1350375691\" type=\"text/javascript\"></script>\n<script src=\"http://www.google.com.hk/jsapi\" type=\"text/javascript\"></script>\n<script src=\"/javascripts/map_show.js?1350375691\" type=\"text/javascript\"\
+      ></script>\n<script src=\"/javascripts/map_gallery.js?1350375691\" type=\"text/javascript\"></script>\n\t\n<script type=\"text/javascript\">\nfunction initialize() {\n\tvar map = createMap();\t\n\tpopulateMap(map, \"/trips/1/csv\");\n\t\n\tinitGallery();\n\
+      }\n\ngoogle.setOnLoadCallback(initialize);\n</script>\n</head>\n<body>\n\t<header>\n\t\t<img alt=\"Logo\" class=\"logo\" src=\"/images/logo.gif?1350375691\" />\n\t</header>\n\t<div class='main'>\n  \t\t<div id=\"map_canvas\"></div>\n\t\t<div id=\"locations\"\
+      >\n\t\t\t<div id='slide_control'></div>\n\t\t\t<ul class='thumbs noscript'>\n\t\t\t\t<li>\n\t<a href=\"http://www.kuqin.com/upimg/topic/Rails.png\" class=\"thumb\" title=\"somewhere in chengdu\"><img alt=\"Rails\" class=\"thumbnail_image\" src=\"http://www.kuqin.com/upimg/topic/Rails.png\"\
+      \ /></a>\n\t<div class='slide_name'>somewhere in chengdu</div>\n\t<div class='caption'>\n\t\t<p class='name'>somewhere in chengdu</p>\n\t\t<p class='description'>logo of rails</p>\n\t</div>\n</li>\n\t\t\t</ul>\n\t\t</div>\n\t\t<div id=\"current_location\"\
+      >\n\t\t\t<a href='#' class='nav prev' onclick='$.gallery.previous(); return false;'>&nbsp;</a>\n\t\t\t<a href='#' class='nav next' onclick='$.gallery.next(); return false;'>&nbsp;</a>\n\t\t</div>\n\t\t<div id='description'></div>\n\t</div>\n\t<footer>\n\
+      \t</footer>\n</body>\n</html>"

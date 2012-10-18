@@ -1,11 +1,9 @@
-package BetaMax.BetaMaxSample;
+package BetaMax.BetaMaxSample.JUnit;
 
-import java.io.BufferedInputStream;
-import java.io.DataInputStream;
-import java.io.IOException;
-import java.io.InputStream;
+import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.Properties;
 
 import org.junit.Rule;
 import org.junit.Test;
@@ -13,12 +11,12 @@ import org.junit.Test;
 import co.freeside.betamax.Betamax;
 import co.freeside.betamax.Recorder;
 
-public class VCRTest {
+public class VCRJUnitTest {
 	@Rule
 	public Recorder recorder = new Recorder();
 
-	@SuppressWarnings("deprecation")
-	@Betamax(tape = "my test vcr tape")
+    @SuppressWarnings("deprecation")
+	@Betamax(tape = "defaultTape1")
 	@Test
 	public void shouldReturnResultWhenWIFIIsTurnedOff() throws IOException {
 		URL url;
