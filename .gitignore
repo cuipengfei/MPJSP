@@ -18,3 +18,9 @@ BetaMaxSample/BetaMaxSample.iml
 BetaMaxSample/BetaMaxSample.ipr
 
 BetaMaxSample/BetaMaxSample.iws
+
+tmp/.classpath
+
+tmp/.project
+tmp/.settings
+tmp/target
